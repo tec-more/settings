@@ -1,0 +1,8 @@
+{
+    "alias": "tukecx-settings",
+    "name": "Settings",
+    "author": "Tukecx",
+    "description": "Manage CMS settings",
+    "namespace": "Tukecx\\Base\\Settings",
+    "autoload": "psr-4"
+}
